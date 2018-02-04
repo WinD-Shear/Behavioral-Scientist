@@ -92,7 +92,7 @@ titanic <- na.omit(dat[,c("survived","pclass","sex","age","sibsp")])
 
 
 ```r
- # partition plot (Figure 2 in paper)
+ # partition plot
  n <- length(class)
  class.jitter <- class+.7*runif(n)
  plot(age ~ class.jitter,xlim=c(.95,3.8),cex=1.5,xlab="class",xaxt="n")
