@@ -1,49 +1,53 @@
 # Behavioral Science Portfolio
  
-This is a repository of the projects I worked on or currently working on. It is updated regularly. The projects are either written in R (R markdown) or Python (Jupyter Notebook). The goal of the projects is to use data science/statistical modelling techniques to find something that is interesting. A typical project consist of finding and cleaning data, analysis, visualization and conclusion. Click on the projects to see full analysis and code.
+This is a repository of the side projects I worked on or currently working on. It is updated regularly. The projects are either written in R, Python, STATA, or Eviews. The goal of the projects is to uncover interesting behavioral economics and data science/statistical modelling answers. A typical project consist of conducting experiments, finding and cleaning data, analysis, visualization, and conclusion. Click on the projects to see snippets of analysis and code.
  
 ## Projects:
  
-###  [Facebook Message Network](https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/Facebook_Message_Network.md)
-* Cross correlation analysis between Bitcoin Price and S&P500 price over time.
-* Granger causality test between Bitcoin and stock prices
-* Fitted ARIMA model on Bitcoin prices to forecast Bitcoin range of movement.
-* **Keywords**(R, network, igraph, facebook message)
-<img src="https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/Facebook_Message_Network_files/figure-html/unnamed-chunk-3-2.png" width="500">
- 
----
+
 ### [Behavioral Economic Experiments](https://behavioral-science.herokuapp.com)
-* Taught and demonstrated behavioral economic experiments, game theory, and other economic games using oTree.
-* 
-*
+* Demonstration of behavioral economic experiments, game theory, and other economic games using oTree.
 * Programmed in Python and oTree; environment in Heroku and PostgresSQL; analysis in R and STATA.
+<img src="https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/behavioral-economic-experiments-oTree.png" width="500">
 
 ---
 
-###  [Insurance Experiment - Forthcoming](https://wlu.herokuapp.com)
-* Predicted US (2016) election victories as the voting results of each region becomes available.
-* Regressed states with results against polling data and predicted results for the remaining states
-* Monte Carlos simulation used to simulate the winner of the election.
-* Compared simulated results with exchange rates fluctuations to see if market is efficient.
+###  [Insurance Experiment - White Paper Forthcoming](https://wlu.herokuapp.com)
+* Custom program to perform experiment on 500 students in a laboratory setting
+* Research focus on information asymmetry reduction with behavioral economic methods
+* Uses multi-unit Vickrey auction, reward elicitation, and information asymmetry treatments
 * **Keywords**(Python, Heroku app, Behavioral Economics)
-<img src="FX_Analysis_During_US_Election/results.png" width="500">
+<img src="https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/insurance-intro.png" width="500">
  
  
 ---
+
+
+###  [Machine Learning and Econometrics]
+* Implemented latest methods of machine learning techniques and econometrics, and particularly for estimating causal effects.
+* Most interested in cross-fold validation methods, LASSO, and ML in experiments.
+* For empirical economists. 
+* **Keywords**(R, econometrics)
+<img src="https://github.com/WinD-Shear/Machine-Learning-and-Econometrics-AEA-2018/blob/master/Metrics-ML_Part_1_files/figure-html/unnamed-chunk-27-1.png" width="500">
  
+ 
+---
+  
+  
 ###  [Behavioral Econ Twitter Analysis](https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/TwitteR_Analysis.md)
 * Fitted power-law and log-normal distribution to Behavioral Econonomics users.
 * Crawled Twitter to find 20000 random user and fitted power law distribution to users' friends count and followers count.
 * **Keywords**(R, TwitteR, Power-law, Log-normal)
 <img src="https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/TwitteR_Analysis_files/figure-html/unnamed-chunk-3-2.png" width="500">
  
----
-  
-###  [Machine Learning and Econometrics]
-* Fitted power-law and log-normal distribution to Behavioral Econonomics users.
-* Most interested in cross-fold validation methods, and ML in experiments.
-* **Keywords**(R, )
-<img src="https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/TwitteR_Analysis_files/figure-html/unnamed-chunk-3-2.png" width="500">
  
 ---
+
+
+###  [Facebook Message Network](https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/Facebook_Message_Network.md)
+* Cross correlation analysis between Bitcoin Price and S&P500 price over time.
+* Granger causality test between Bitcoin and stock prices
+* Fitted ARIMA model on Bitcoin prices to forecast Bitcoin range of movement.
+* **Keywords**(R, network, igraph, facebook message)
+<img src="https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/Facebook_Message_Network_files/figure-html/unnamed-chunk-3-2.png" width="500">
  
