@@ -1,7 +1,9 @@
 # Behavioral Science Portfolio
  
 This is a repository of the side projects I worked on or currently working on. It is updated regularly. The projects are either written in R, Python, STATA, or Eviews. The goal of the projects is to uncover interesting behavioral economics and data science/statistical modelling answers. A typical project consist of conducting experiments, finding and cleaning data, analysis, visualization, and conclusion. Click on the projects to see snippets of analysis and code.
- 
+
+a
+
 ## Projects:
  
 
