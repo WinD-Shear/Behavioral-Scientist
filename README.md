@@ -23,7 +23,7 @@ This is a repository of the side projects I worked on or currently working on. I
 ---
 
 
-###  [Machine Learning and Econometrics]
+###  [Machine Learning and Econometrics](https://github.com/WinD-Shear/Machine-Learning-and-Econometrics-AEA-2018/blob/master/Metrics-ML_Part_1.md)
 * Implemented latest methods of machine learning techniques and econometrics, and particularly for estimating causal effects.
 * Most interested in cross-fold validation methods, LASSO, and ML in experiments.
 * For empirical economists. 
