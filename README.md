@@ -12,7 +12,14 @@ This is a repository of the projects I worked on or currently working on. It is 
 <img src="https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/Facebook_Message_Network_files/figure-html/unnamed-chunk-3-2.png" width="500">
  
 ---
- 
+### [Behavioral Economic Experiments](https://behavioral-science.herokuapp.com)
+* Taught and demonstrated behavioral economic experiments, game theory, and other economic games using oTree.
+* 
+*
+* Programmed in Python and oTree; environment in Heroku and PostgresSQL; analysis in R and STATA.
+
+---
+
 ###  [Insurance Experiment - Forthcoming](https://wlu.herokuapp.com)
 * Predicted US (2016) election victories as the voting results of each region becomes available.
 * Regressed states with results against polling data and predicted results for the remaining states
@@ -32,5 +39,11 @@ This is a repository of the projects I worked on or currently working on. It is 
  
 ---
   
-
+###  [Machine Learning and Econometrics]
+* Fitted power-law and log-normal distribution to Behavioral Econonomics users.
+* Most interested in cross-fold validation methods, and ML in experiments.
+* **Keywords**(R, )
+<img src="https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/TwitteR_Analysis_files/figure-html/unnamed-chunk-3-2.png" width="500">
+ 
+---
  
