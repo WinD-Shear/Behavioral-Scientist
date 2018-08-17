@@ -45,9 +45,7 @@ This is a repository of the side projects I worked on or currently working on. I
 
 
 ###  [Facebook Message Network](https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/Facebook_Message_Network.md)
-* Cross correlation analysis between Bitcoin Price and S&P500 price over time.
-* Granger causality test between Bitcoin and stock prices
-* Fitted ARIMA model on Bitcoin prices to forecast Bitcoin range of movement.
+* Network graph of Facebook messages
 * **Keywords**(R, network, igraph, facebook message)
 <img src="https://github.com/WinD-Shear/Behavioral-Scientist/blob/master/Facebook_Message_Network_files/figure-html/unnamed-chunk-3-2.png" width="500">
  
